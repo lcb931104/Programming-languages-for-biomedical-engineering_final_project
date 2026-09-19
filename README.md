@@ -10,6 +10,10 @@ In response to this issue, we are developing a dedicated information platform sp
 
 By providing real-time updates on lunch box availability and enabling students to make reservations, this platform will help students plan their meals more effectively. Additionally, it will provide administrators with an accurate view of demand, allowing them to adjust orders to better match the needs of the student population. This improved coordination should lead to fewer shortages, ensuring that students relying on these lunches have consistent access to meals.
 
+## initial manager
+- account: user
+- password: 0000
+
 ## function
 1. Add
 Lecture(manager only)
