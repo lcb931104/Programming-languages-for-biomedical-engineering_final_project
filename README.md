@@ -1,12 +1,14 @@
 # 醫工程式語言期末專題_講座便當登記平台
 ---
 ## 作者: 李承翰、林子傑
-## 背景: 
-在雙和校區，學生經常面臨午餐取得不易的問題，主要原因是校園周邊可選擇的餐飲店家較少。由於附近用餐選擇有限，許多學生會依賴講座或課程所提供的午餐便當，以滿足中午的用餐需求。然而，這樣的依賴也衍生出一項反覆出現的問題：講座提供的便當需求經常超過實際供應量，導致便當不足，使部分學生無法順利取得午餐。
+此為北醫醫工大二上醫工程式語言課的期末專題，利用學了一學期的 C++ 寫一個"有用處的"程式，不要只是加減乘除這些生活用不到的
 
-為了解決此問題，我們正在開發一個專門用於管理與分配講座便當的資訊平台。此平台旨在提升便當資訊管理與供應安排的效率，讓管理者可以手動輸入並追蹤每場提供餐點的講座資訊，包括時間、地點以及餐點種類等。這些資訊將提供給使用者查詢，使學生能夠事先瀏覽各項選擇，並決定是否登記預約便當。
+## background 
+At the Shuanghe campus, students often face challenges securing lunch due to a limited number of dining options nearby. With few places to eat within easy reach, many students rely on the convenience of lunch boxes provided during lectures to meet their midday meal needs. However, this dependency has led to a recurring issue: demand for lecture-provided lunch boxes frequently exceeds supply, creating shortages that leave some students without access to lunch.
 
-透過即時更新便當剩餘數量並提供學生預約功能，此平台能協助學生更有效地規劃午餐安排。同時，管理者也能更準確掌握實際需求，進而調整便當訂購數量，使供應量更符合學生需求。藉由改善供需之間的協調，可望降低便當短缺的情況，確保有午餐需求的學生能更穩定地取得餐點。
+In response to this issue, we are developing a dedicated information platform specifically for managing and distributing lecture-provided lunch boxes. This platform aims to streamline the organization and availability of lunch boxes by allowing administrators to manually input and track key details for each lecture offering meals, including the time, location, and type of food provided. This comprehensive information will be accessible to users, enabling students to review the options and decide whether they would like to register for a lunch box.
+
+By providing real-time updates on lunch box availability and enabling students to make reservations, this platform will help students plan their meals more effectively. Additionally, it will provide administrators with an accurate view of demand, allowing them to adjust orders to better match the needs of the student population. This improved coordination should lead to fewer shortages, ensuring that students relying on these lunches have consistent access to meals.
 
 ## function
 1. Add
