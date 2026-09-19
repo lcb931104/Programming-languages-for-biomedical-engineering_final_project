@@ -44,4 +44,4 @@ Managers can reset their password if they forget it.
 9. Exit
 
 ## poster
-
+![](final_report_poster.png)
