@@ -8,3 +8,31 @@
 
 透過即時更新便當剩餘數量並提供學生預約功能，此平台能協助學生更有效地規劃午餐安排。同時，管理者也能更準確掌握實際需求，進而調整便當訂購數量，使供應量更符合學生需求。藉由改善供需之間的協調，可望降低便當短缺的情況，確保有午餐需求的學生能更穩定地取得餐點。
 
+## function
+1. Add
+Lecture(manager only)
+Managers can input lecture information, including the date, time,
+location, and details about provided food.
+2. Cancel
+Lecture (manager only)
+Managers can cancel a lecture if necessary.
+3. Confirm
+the Order
+.Users can confirm their requirements or preferences.
+4. Search For
+Lectures
+Users can search for the day a lecture is scheduled and view its details.
+They can then decide whether to reserve a spot or not.
+5. Reservation
+Users can register to join a lecture by selecting their preferred date
+and time.
+6. Add
+manager
+Manager can add a new manager.
+7. Delete
+manager
+Manager can delete a manager.
+8. Forgot
+password
+Managers can reset their password if they forget it.
+9. Exit
