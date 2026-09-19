@@ -38,3 +38,6 @@ Manager can delete a manager.
 password
 Managers can reset their password if they forget it.
 9. Exit
+
+## poster
+![](final_poster.png)
