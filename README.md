@@ -2,7 +2,12 @@
 ---
 ## 作者: 李承翰、林子傑
 此為北醫醫工大二上醫工程式語言課的期末專題，利用學了一學期的 C++ 寫一個"有用處的"程式，不要只是加減乘除這些生活用不到的
-> 這時的我縮排部份單純照自己覺得好看且能跑的方式縮排，因此有點奇怪
+> 這時的我縮排部份單純照自己覺得好看且能跑的方式縮排，因此有點奇怪 <br>
+> 此專案**全部都是手打程式**，因為當時LLM寫的程式太爛了，所以我就全部手打了
+
+## 分工
+- 李承翰 : 寫程式、報告時講解程式部份
+- 林子傑 : 做海報、報告，報告時講解背景、方法部份
 
 ## background 
 At the Shuanghe campus, students often face challenges securing lunch due to a limited number of dining options nearby. With few places to eat within easy reach, many students rely on the convenience of lunch boxes provided during lectures to meet their midday meal needs. However, this dependency has led to a recurring issue: demand for lecture-provided lunch boxes frequently exceeds supply, creating shortages that leave some students without access to lunch.
